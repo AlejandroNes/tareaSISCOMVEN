@@ -1,0 +1,7 @@
+com\test\bean\ProductoBean.class
+com\test\clases\Categoria.class
+com\test\clases\ProductoCompra.class
+com\test\conexion\VariablesConexion.class
+com\test\bean\ProveedorBean.class
+com\test\bean\CategoriaBean.class
+com\test\bean\VentaBean.class
